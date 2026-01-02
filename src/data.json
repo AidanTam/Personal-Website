@@ -16,7 +16,7 @@
         "social_links": {
             "linkedin": "https://www.linkedin.com/in/aidan-tam-73b060300/"
         },
-        "photo_url": "/profile-new.png",
+        "photo_url": "./profile-new.png",
         "education": [
             {
                 "institution": "Western University",
@@ -179,7 +179,7 @@
                 "category": "Artificial Intelligence / Computer Vision",
                 "context": "Western University - AISE 3350A Final Project",
                 "description": "Engineered a CNN using TensorFlow/OpenCV with data augmentation for rotational invariance. Integrated a Minimax algorithm to provide live strategic move recommendations based on worst-case payoff scenarios.",
-                "video_url": "/rps-demo.mp4",
+                "video_url": "./rps-demo.mp4",
                 "challenge": "Develop a system to identify 'Rock, Paper, Scissors' gestures in dynamic environments, accounting for lighting and rotation, while integrating a game-theory-based strategic recommender for four players.",
                 "technologies": [
                     "Python 3.11",
@@ -201,7 +201,7 @@
                 "title": "Asteroid Diameter Prediction",
                 "category": "Machine Learning & Data Science",
                 "description": "Developed a high-accuracy predictive model to estimate asteroid diameters using orbital and physical parameters from a NASA JPL dataset of over 950,000 records. The final system utilizes a Stacking Regressor ensemble (combining Random Forest, XGBoost, and MLP) to maximize generalization and minimize prediction error.",
-                "image_url": "/asteroid-preview.png",
+                "image_url": "./asteroid-preview.png",
                 "technologies": [
                     "Python",
                     "Scikit-Learn",
@@ -224,7 +224,7 @@
                 "title": "Nitinol-Driven Knee Motion Simulator",
                 "category": "Mechanical Engineering & Robotics",
                 "description": "Designed an innovative muscle actuation system for ex-vivo human joint simulators, utilizing Shape Memory Alloy (Nitinol) to improve power-to-weight ratios in rehabilitation technology.",
-                "video_url": "/nitinol-demo.mp4",
+                "video_url": "./nitinol-demo.mp4",
                 "technologies": [
                     "Nitinol (Shape Memory Alloy)",
                     "AISI 1020 Steel",
